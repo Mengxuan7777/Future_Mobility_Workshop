@@ -27,3 +27,15 @@ h1 {
     flex-direction: column;
   
 }
+
+.gallery {
+    border-radius: 4px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    width: 400px;
+}
